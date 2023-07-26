@@ -1,1 +1,1 @@
-docker run -d --name final-python -p 5000:5000 yoavkarp/final-python
+docker run -d -p 5000:5000 --name final-python yoavkarp/final-python
